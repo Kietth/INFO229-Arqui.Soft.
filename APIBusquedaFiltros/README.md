@@ -5,18 +5,18 @@ Sistema completo de búsqueda y filtrado de datos CSV.
 ## 🚀 Inicio Rápido
 
 ### Backend
-\`\`\`bash
+bash
 cd backend
 npm install
 npm start
-\`\`\`
+
 
 ### Frontend
-\`\`\`bash
+bash
 cd frontend
 npm install
 npm run dev
-\`\`\`
+
 
 ## 📖 Características
 
@@ -38,7 +38,3 @@ npm run dev
 2. Inicia el backend
 3. Inicia el frontend
 4. Carga el CSV desde la interfaz web
-
-## 📄 Licencia
-
-MIT
